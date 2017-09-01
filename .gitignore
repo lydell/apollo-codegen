@@ -1,5 +1,5 @@
 node_modules
-lib
+lib/**/*.map
 
 # Visual Studio Code workspace settings
 .vscode/*
